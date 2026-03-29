@@ -7,5 +7,6 @@ test("Launch Application and Validate", async ({page})=>{
     console.log("Title :"+title);
     const url = await page.url()
     console.log("URL of Application :"+url);
+     console.log("URL of Application :"+url);
    
 })
