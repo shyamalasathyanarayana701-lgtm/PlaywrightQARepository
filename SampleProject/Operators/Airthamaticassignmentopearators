@@ -1,0 +1,39 @@
+
+let x
+x=100
+x+=5
+console.log(x);
+
+ 
+let y=5
+y = y+100
+
+console.log(y);
+
+
+let a= 100
+a-=20
+console.log(a);
+
+a= a-5
+console.log(a);
+
+
+let c= 25
+c*=5
+console.log(c)
+
+c=c*5
+console.log(c)
+
+let D= 10
+D/=10
+console.log(D)
+
+
+let E =10
+E%=3
+console.log(E)
+
+E=E%3
+console.log(E)

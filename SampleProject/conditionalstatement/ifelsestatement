@@ -1,0 +1,21 @@
+let x= 35;
+if (x%6==0)
+{
+    console.log("number is devisible by 6   :" +x)
+}
+else 
+{
+    console.log("number is not devisible by 6  : " +x)
+}
+
+
+let age =21
+
+if(age>=18)
+    {
+        console.log("you can vote")
+    }
+    else
+    {
+        console.log("you can't vote")
+    }
